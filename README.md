@@ -13,7 +13,7 @@
 
 Work done in release x64 and block size = 10:
 
-![](/Stats/image.png) 
+![](/size_time.jpg) 
 
 ----
 

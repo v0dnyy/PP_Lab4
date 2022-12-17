@@ -11,6 +11,7 @@
 
 ----
 Measurements made on Rtx 2060.
+
 Work done in release x64 and block size = 10(Time in millseconds):
 
 ![](/size_time.jpg) 

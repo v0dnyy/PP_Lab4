@@ -16,11 +16,9 @@ Work done in release x64 and block size = 10:
 ![](/size_time.jpg) 
 
 Comparing number of threads:
-![](/5.jpg) ![](/10.jpg) 
 
-![](/10.jpg) 
+![](/5.jpg) ![](/10.jpg) ![](/25.jpg)
 
-![](/25.jpg) 
 
 ----
 

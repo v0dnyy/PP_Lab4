@@ -11,17 +11,9 @@
 
 ----
 
-Work done in release x64:
+Work done in release x64 and block size = 10:
 
 ![](/Stats/image.png) 
-
-Work done in release x64 with 6 threads, because my cpu has 6 logical cores:
-
-![](/Stats/omp_6_threads.jpg) 
-
-The difference in the number of threads:
-
-![](/Stats/number_of_threads.jpg)
 
 ----
 
